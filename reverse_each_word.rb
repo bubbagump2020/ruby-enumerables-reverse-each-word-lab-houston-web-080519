@@ -10,5 +10,5 @@ def reverse_each_word(string)
 			counter += 1
 		end
 	end
-	new_str_array
+	new_str_array.join(" ")
 end
