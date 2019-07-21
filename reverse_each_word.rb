@@ -1,5 +1,5 @@
 def reverse_each_word(string)
-  => begin
+  = begin
 	reversed_string = string.split(" ")
 	new_str_array = []
 	new_str_obj = ""
