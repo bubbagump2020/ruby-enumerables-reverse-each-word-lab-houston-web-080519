@@ -13,4 +13,8 @@ def reverse_each_word(string)
 	#end
 	#new_str_array.join(" ")
 	
+	#using the .collect method to reverse each word
+	
+	
+	
 end
