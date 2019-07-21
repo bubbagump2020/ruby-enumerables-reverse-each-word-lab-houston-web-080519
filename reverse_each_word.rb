@@ -1,7 +1,8 @@
 =begin
 using the .each method to reverse each word
+
 def reverse_each_word(string)
-  using the .each method for reversing each word
+  
 	reversed_string = string.split(" ")
 	new_str_array = []
 	new_str_obj = ""
@@ -14,7 +15,9 @@ def reverse_each_word(string)
 		end
 	end
 	new_str_array.join(" ")
+	
 end
+
 =end
 
 #using the .collect method to achieve the same result
